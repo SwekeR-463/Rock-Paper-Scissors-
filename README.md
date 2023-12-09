@@ -7,4 +7,4 @@ Simple Python Project implementing the following <br />
 ->use of list <br />
 ->use of while loop <br />
 ->use of .lower() <br />
-->use of if elif & else statements <br />
+->use of if , elif & else statements
